@@ -139,10 +139,6 @@
 <link>http://www.gesetze-im-internet.de/bimschv_12_2000/xml.zip</link>
 </item>
 <item>
-<title>Zwölfte Verordnung über zwingende Arbeitsbedingungen im Dachdeckerhandwerk</title>
-<link>http://www.gesetze-im-internet.de/dachdarbbv_12/xml.zip</link>
-</item>
-<item>
 <title>Zwölfte Verordnung über zwingende Arbeitsbedingungen für das Maler- und Lackiererhandwerk</title>
 <link>http://www.gesetze-im-internet.de/malerarbbv_12/xml.zip</link>
 </item>
@@ -157,6 +153,10 @@
 <item>
 <title>Dreizehnte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_13_2021/xml.zip</link>
+</item>
+<item>
+<title>Dreizehnte Verordnung über zwingende Arbeitsbedingungen im Dachdeckerhandwerk</title>
+<link>http://www.gesetze-im-internet.de/dachdarbbv_13/xml.zip</link>
 </item>
 <item>
 <title>Dreizehnte Verordnung zum Produktsicherheitsgesetz (Aerosolpackungsverordnung)</title>
@@ -229,10 +229,6 @@
 <item>
 <title>Zweite Verordnung zur Änderung der Sechsten Verordnung zur Durchführung des Bundesentschädigungsgesetzes</title>
 <link>http://www.gesetze-im-internet.de/begdv6_ndv_2/xml.zip</link>
-</item>
-<item>
-<title>Zweite Verordnung zur Gewährung einer außergewöhnlichen Anpassungsbeihilfe für Erzeuger in bestimmten Agrarsektoren</title>
-<link>http://www.gesetze-im-internet.de/agrarerzanpbeihv_2/xml.zip</link>
 </item>
 <item>
 <title>Zweites Gesetz zur Vereinheitlichung und Neuregelung des Besoldungsrechts in Bund und Ländern</title>
@@ -411,10 +407,6 @@
 <link>http://www.gesetze-im-internet.de/gebav_3/xml.zip</link>
 </item>
 <item>
-<title>Dritte Verordnung über die Bezugsdauer für das Kurzarbeitergeld</title>
-<link>http://www.gesetze-im-internet.de/kugbev_3/xml.zip</link>
-</item>
-<item>
 <title>Drittes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1960</title>
 <link>http://www.gesetze-im-internet.de/rag_3/xml.zip</link>
 </item>
@@ -487,8 +479,16 @@
 <link>http://www.gesetze-im-internet.de/begdv_4/xml.zip</link>
 </item>
 <item>
+<title>Vierte Verordnung über die Bezugsdauer für das Kurzarbeitergeld</title>
+<link>http://www.gesetze-im-internet.de/kugbev_4/xml.zip</link>
+</item>
+<item>
 <title>Viertes Gesetz über die Anpassung der Renten aus den gesetzlichen Rentenversicherungen aus Anlaß der Veränderung der allgemeinen Bemessungsgrundlage für das Jahr 1961</title>
 <link>http://www.gesetze-im-internet.de/rag_4/xml.zip</link>
+</item>
+<item>
+<title>Vierte Verordnung über zwingende Arbeitsbedingungen für Sicherheitskräfte an Verkehrsflughäfen</title>
+<link>http://www.gesetze-im-internet.de/vflughsikarbbv_4/xml.zip</link>
 </item>
 <item>
 <title>Vierte Verordnung zur Durchführung des Windenergie-auf-See-Gesetzes</title>
@@ -617,6 +617,10 @@
 <item>
 <title>Neunte Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bimschv_9/xml.zip</link>
+</item>
+<item>
+<title>Neunte Verordnung über zwingende Arbeitsbedingungen im Gerüstbauerhandwerk</title>
+<link>http://www.gesetze-im-internet.de/ger_stbarbbv_9/xml.zip</link>
 </item>
 <item>
 <title>Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) *)</title>
@@ -1097,10 +1101,6 @@
 <item>
 <title>Verordnung über die Einhaltung von Grundanforderungen und Standards im Rahmen unionsrechtlicher Vorschriften über Agrarzahlungen</title>
 <link>http://www.gesetze-im-internet.de/agrarzahlverpflv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Erhebung bestimmter agrarstatistischer Daten</title>
-<link>http://www.gesetze-im-internet.de/agrstatdev/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über Agrarstatistiken</title>
@@ -4407,6 +4407,10 @@
 <link>http://www.gesetze-im-internet.de/blbv/xml.zip</link>
 </item>
 <item>
+<title>Anordnung der Bundesanstalt für Landwirtschaft und Ernährung zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse</title>
+<link>http://www.gesetze-im-internet.de/blebeih_bertrano/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Errichtung einer Bundesanstalt für Landwirtschaft und Ernährung</title>
 <link>http://www.gesetze-im-internet.de/bleg/xml.zip</link>
 </item>
@@ -4701,6 +4705,10 @@
 <item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts</title>
 <link>http://www.gesetze-im-internet.de/bmjvwidvertrano/xml.zip</link>
+</item>
+<item>
+<title>Anordnung des Bundesministeriums für Landwirtschaft, Ernährung und Heimat zur Übertragung von Zuständigkeiten in Angelegenheiten der Beihilfe auf die Postbeamtenkrankenkasse</title>
+<link>http://www.gesetze-im-internet.de/bmlehbeih_bertrano/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Ermöglichung der Anlegung, Führung und Weiterführung papiergebundener Akten in Bußgeldverfahren im Geschäftsbereich des Bundesministeriums für Landwirtschaft, Ernährung und Heimat</title>
@@ -7539,8 +7547,8 @@
 <link>http://www.gesetze-im-internet.de/einglmindv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Eingliederungsleistungen und für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende im Jahr 2025</title>
-<link>http://www.gesetze-im-internet.de/einglmv_2025/xml.zip</link>
+<title>Verordnung über andere und ergänzende Maßstäbe zur Verteilung der Mittel für Eingliederungsleistungen und für Verwaltungskosten zur Durchführung der Grundsicherung für Arbeitsuchende im Jahr 2026</title>
+<link>http://www.gesetze-im-internet.de/einglmv_2026/xml.zip</link>
 </item>
 <item>
 <title>Einheitliche Europäische Akte</title>
@@ -8043,6 +8051,10 @@
 <link>http://www.gesetze-im-internet.de/erpwiplang_2025/xml.zip</link>
 </item>
 <item>
+<title>Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2026</title>
+<link>http://www.gesetze-im-internet.de/erpwiplang_2026/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zur Regelung weiterer Voraussetzungen der Erreichbarkeit erwerbsfähiger Leistungsberechtigter nach dem Zweiten Buch Sozialgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/erreichbv/xml.zip</link>
 </item>
@@ -8143,8 +8155,8 @@
 <link>http://www.gesetze-im-internet.de/estrchevregausfg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über das Berufsbild und über die Prüfungsanforderungen im praktischen und im fachtheoretischen Teil der Meisterprüfung für das Estrichleger-Handwerk</title>
-<link>http://www.gesetze-im-internet.de/estrmstrv/xml.zip</link>
+<title>Verordnung über die Meisterprüfung in den Teilen I und II im Estrichleger-Handwerk</title>
+<link>http://www.gesetze-im-internet.de/estrmstrv_2026/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Ermittlung der Schlüsselzahlen für die Aufteilung des Gemeindeanteils an der Einkommensteuer für die Jahre 2024, 2025 und 2026</title>
@@ -9599,14 +9611,6 @@
 <link>http://www.gesetze-im-internet.de/fmsakostv/xml.zip</link>
 </item>
 <item>
-<title>Satzung der Bundesanstalt für Finanzmarktstabilisierung</title>
-<link>http://www.gesetze-im-internet.de/fmsasatz_2011/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Satzung der Bundesanstalt für Finanzmarktstabilisierung</title>
-<link>http://www.gesetze-im-internet.de/fmsasatzv_2011/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Durchführung des Stabilisierungsfondsgesetzes</title>
 <link>http://www.gesetze-im-internet.de/fmstfv/xml.zip</link>
 </item>
@@ -9845,10 +9849,6 @@
 <item>
 <title>Verordnung über die Durchführung der Flugsicherung</title>
 <link>http://www.gesetze-im-internet.de/fsbetrv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über Art, Umfang, Beschaffenheit, Zulassung, Kennzeichnung und Betrieb von Anlagen und Geräten für die Flugsicherung</title>
-<link>http://www.gesetze-im-internet.de/fsmusterzulv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über das erlaubnispflichtige Personal der Flugsicherung und seine Ausbildung *)</title>
@@ -10129,10 +10129,6 @@
 <item>
 <title>Verordnung über die Entgelte für den Zugang zu Gasversorgungsnetzen</title>
 <link>http://www.gesetze-im-internet.de/gasnev/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über den Zugang zu Gasversorgungsnetzen</title>
-<link>http://www.gesetze-im-internet.de/gasnzv_2010/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Anpassung der Füllstandsvorgaben für Gasspeicheranlagen</title>
@@ -11671,6 +11667,10 @@
 <link>http://www.gesetze-im-internet.de/hg_2025/xml.zip</link>
 </item>
 <item>
+<title>Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2026</title>
+<link>http://www.gesetze-im-internet.de/hg_2026/xml.zip</link>
+</item>
+<item>
 <title>Handelsgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/hgb/xml.zip</link>
 </item>
@@ -13191,10 +13191,6 @@
 <link>http://www.gesetze-im-internet.de/kdav/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Krisendestillation von Wein</title>
-<link>http://www.gesetze-im-internet.de/kdv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Erstattung von Auslagen, Verdienstausfall und Aufwendungen bei der Anhörung im Anerkennungsverfahren als Kriegsdienstverweigerin oder Kriegsdienstverweigerer</title>
 <link>http://www.gesetze-im-internet.de/kdverstattv/xml.zip</link>
 </item>
@@ -13513,10 +13509,6 @@
 <item>
 <title>Verordnung zur Begrenzung von Kontaminanten in Lebensmitteln</title>
 <link>http://www.gesetze-im-internet.de/kmv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Durchführung des vereinfachten Verfahrens nach Artikel 143 Absatz 6 der Verordnung (EU) 2023/1114 1</title>
-<link>http://www.gesetze-im-internet.de/kmz_v/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über den Vergleich von Kosten und Nutzen der Kraft-Wärme-Kopplung und der Rückführung industrieller Abwärme bei der Wärme- und Kälteversorgung</title>
@@ -13907,12 +13899,12 @@
 <link>http://www.gesetze-im-internet.de/krzwmg/xml.zip</link>
 </item>
 <item>
-<title>Künstlersozialabgabe-Verordnung 2024</title>
-<link>http://www.gesetze-im-internet.de/ksabg2024v/xml.zip</link>
-</item>
-<item>
 <title>Künstlersozialabgabe-Verordnung 2025</title>
 <link>http://www.gesetze-im-internet.de/ksabg2025v/xml.zip</link>
+</item>
+<item>
+<title>Künstlersozialabgabe-Verordnung 2026</title>
+<link>http://www.gesetze-im-internet.de/ksabg2026v/xml.zip</link>
 </item>
 <item>
 <title>Kündigungsschutzgesetz</title>
@@ -14463,8 +14455,8 @@
 <link>http://www.gesetze-im-internet.de/lstrkrabk_genf/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über technische Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für elektrisch betriebene Fahrzeuge 1</title>
-<link>http://www.gesetze-im-internet.de/lsv/xml.zip</link>
+<title>Verordnung über die Sicherstellung der technischen Mindestanforderungen an öffentlich zugängliche Ladepunkte für elektrisch betriebene Fahrzeuge</title>
+<link>http://www.gesetze-im-internet.de/lsv_2026/xml.zip</link>
 </item>
 <item>
 <title>Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Schweizerischen Bundesrat zum Vertrag vom 23. November 1964 über die Einbeziehung der Gemeinde Büsingen am Hochrhein in das schweizerische Zollgebiet über die Erhebung und die Ausrichtung eines Anteils der von der Schweiz in ihrem Staatsgebiet und im Gebiet der Gemeinde Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe</title>
@@ -15659,6 +15651,10 @@
 <link>http://www.gesetze-im-internet.de/milov4/xml.zip</link>
 </item>
 <item>
+<title>Fünfte Verordnung zur Anpassung der Höhe des Mindestlohns</title>
+<link>http://www.gesetze-im-internet.de/milov5/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Militärseelsorge</title>
 <link>http://www.gesetze-im-internet.de/milseelsg/xml.zip</link>
 </item>
@@ -15761,10 +15757,6 @@
 <item>
 <title>Verordnung über die Festsetzung der Schleusenbetriebszeiten am Mittellandkanal und Elbe-Seitenkanal</title>
 <link>http://www.gesetze-im-internet.de/ml_elbeskanalschlbetrzv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Anpassung der Mindestleistung nach dem Unterhaltssicherungsgesetz</title>
-<link>http://www.gesetze-im-internet.de/mlanpv_2024/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über den Absatz von Magermilchpulver aus öffentlicher Lagerhaltung zur Denaturierung, zur Verarbeitung zu Mischfutter und zur Ausfuhr sowie über die Lieferung von Magermilchpulver im Rahmen der Nahrungsmittelhilfe</title>
@@ -19595,8 +19587,8 @@
 <link>http://www.gesetze-im-internet.de/rbkpr_serl/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2025</title>
-<link>http://www.gesetze-im-internet.de/rbsfv_2025/xml.zip</link>
+<title>Verordnung zur Bestimmung der für die Fortschreibung der Regelbedarfsstufen nach § 28a und für die Fortschreibung des Teilbetrags nach § 34 Absatz 3a Satz 1 des Zwölften Buches Sozialgesetzbuch maßgeblichen Prozentsätze sowie zur Ergänzung der Anlage zu §§ 28 und 34 des Zwölften Buches Sozialgesetzbuch für das Jahr 2026</title>
+<link>http://www.gesetze-im-internet.de/rbsfv_2026/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zum Schutz gegen übertragbare Geschlechtskrankheiten der Rinder</title>
@@ -21628,7 +21620,7 @@
 </item>
 <item>
 <title>Anordnung über die Ernennung und Entlassung von Soldatinnen und Soldaten und die Ernennung von Reservistinnen und Reservisten</title>
-<link>http://www.gesetze-im-internet.de/soldernano_2015/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/soldernano_2026/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Gleichbehandlung der Soldatinnen und Soldaten</title>
@@ -21697,6 +21689,10 @@
 <item>
 <title>Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2022</title>
 <link>http://www.gesetze-im-internet.de/svbezgrv_2022/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zum Abruf von Kindergelddaten durch Sozialleistungsträger</title>
+<link>http://www.gesetze-im-internet.de/sozkigabv/xml.zip</link>
 </item>
 <item>
 <title>Abkommen zwischen der Bundesrepublik Deutschland und der Republik Albanien über Soziale Sicherheit</title>
@@ -22679,10 +22675,6 @@
 <link>http://www.gesetze-im-internet.de/stromnev/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen</title>
-<link>http://www.gesetze-im-internet.de/stromnzv/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zur Einführung einer Strompreisbremse *</title>
 <link>http://www.gesetze-im-internet.de/strompbg/xml.zip</link>
 </item>
@@ -23095,6 +23087,10 @@
 <link>http://www.gesetze-im-internet.de/svbezgrv_2025/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über maßgebende Rechengrößen der Sozialversicherung für 2026</title>
+<link>http://www.gesetze-im-internet.de/svbezgrv_2026/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Auflösung der Staatlichen Versicherung der Deutschen Demokratischen Republik in Abwicklung</title>
 <link>http://www.gesetze-im-internet.de/svddrauflg/xml.zip</link>
 </item>
@@ -23305,10 +23301,6 @@
 <item>
 <title>Gesetz über den Handel mit Berechtigungen zur Emission von Treibhausgasen</title>
 <link>http://www.gesetze-im-internet.de/tehg_2025/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2025</title>
-<link>http://www.gesetze-im-internet.de/telefinv_2025/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Anpassung des Betrags zur Finanzierung der Gesellschaft für Telematik für das Jahr 2026</title>
@@ -23847,12 +23839,20 @@
 <link>http://www.gesetze-im-internet.de/tvgdv/xml.zip</link>
 </item>
 <item>
+<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Gerüstbauerhandwerk im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 25. September 2025</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_9/xml.zip</link>
+</item>
+<item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 28. April 2025</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_maler_12/xml.zip</link>
 </item>
 <item>
-<title>Rechtsnormen des Tarifvertrages zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. September 2023</title>
-<link>http://www.gesetze-im-internet.de/tvmindestlohndachd_12/xml.zip</link>
+<title>Rechtsnormen des Entgelttarifvertrags für Sicherheitskräfte an Verkehrsflughäfen vom 8. April 2025</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohn_vflughsik_4/xml.zip</link>
+</item>
+<item>
+<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes im Dachdeckerhandwerk – Dach-, Wand- und Abdichtungstechnik – im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 2. Oktober 2025</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohndachd_13/xml.zip</link>
 </item>
 <item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung der Mindestlöhne für gewerbliche Arbeitnehmer1) in der Gebäudereinigung im Gebiet der Bundesrepublik Deutschland (TV Mindestlohn) vom 15. November 2024</title>
