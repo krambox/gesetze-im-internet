@@ -623,7 +623,7 @@
 <link>http://www.gesetze-im-internet.de/ger_stbarbbv_9/xml.zip</link>
 </item>
 <item>
-<title>Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) *)</title>
+<title>Neunte Verordnung zum Produktsicherheitsgesetz (Maschinenverordnung) 1) 2)</title>
 <link>http://www.gesetze-im-internet.de/gsgv_9/xml.zip</link>
 </item>
 <item>
@@ -5907,8 +5907,8 @@
 <link>http://www.gesetze-im-internet.de/bverkehrz_nderl/xml.zip</link>
 </item>
 <item>
-<title>Bekanntmachung über die Zahl der von den Volksvertretungen der Länder zu wählenden Mitglieder der 17. Bundesversammlung</title>
-<link>http://www.gesetze-im-internet.de/bvers17zbek/xml.zip</link>
+<title>Anordnung über Ort und Zeit der 18. Bundesversammlung</title>
+<link>http://www.gesetze-im-internet.de/bvers18ano/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die interne Teilung beamtenversorgungsrechtlicher Ansprüche von Bundesbeamtinnen und Bundesbeamten im Versorgungsausgleich</title>
@@ -6011,8 +6011,8 @@
 <link>http://www.gesetze-im-internet.de/bwappenbek/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr *</title>
-<link>http://www.gesetze-im-internet.de/bwbbg/xml.zip</link>
+<title>Gesetz zur Beschleunigung von Beschaffungsmaßnahmen für die Bundeswehr</title>
+<link>http://www.gesetze-im-internet.de/bwbbg_2026/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Bundesdatenschutzgesetz im Bereich der Bundeswehr</title>
@@ -7215,6 +7215,10 @@
 <link>http://www.gesetze-im-internet.de/ebev_2030/xml.zip</link>
 </item>
 <item>
+<title>Gesetz über Europäische Herausgabe- und Sicherungsanordnungen zu elektronischen Beweismitteln</title>
+<link>http://www.gesetze-im-internet.de/ebewmg/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zur Europäischen Bürgerinitiative</title>
 <link>http://www.gesetze-im-internet.de/ebig/xml.zip</link>
 </item>
@@ -8092,7 +8096,7 @@
 </item>
 <item>
 <title>Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt</title>
-<link>http://www.gesetze-im-internet.de/ervdpmav_2013/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/ervdpmav_2026/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach*</title>
@@ -11459,6 +11463,10 @@
 <link>http://www.gesetze-im-internet.de/gwg_2017/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Form von und die erforderlichen Angaben in Meldungen an die Zentralstelle für Finanztransaktionsuntersuchungen nach § 43 Absatz 1 und § 44 des Geldwäschegesetzes</title>
+<link>http://www.gesetze-im-internet.de/gwgmeldv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung zu den nach dem Geldwäschegesetz meldepflichtigen Sachverhalten im Immobilienbereich</title>
 <link>http://www.gesetze-im-internet.de/imgwgmeldv/xml.zip</link>
 </item>
@@ -11677,10 +11685,6 @@
 <item>
 <title>Gesetz zur Änderung des Hauptfeststellungszeitraums für die wirtschaftlichen Einheiten des Betriebsvermögens sowie des Hauptveranlagungszeitraums für die Vermögensteuer</title>
 <link>http://www.gesetze-im-internet.de/hfzhvzvstg/xml.zip</link>
-</item>
-<item>
-<title>Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025</title>
-<link>http://www.gesetze-im-internet.de/hg_2025/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2026</title>
@@ -13647,14 +13651,6 @@
 <link>http://www.gesetze-im-internet.de/konsvergbrv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Großherzogtum Luxemburg</title>
-<link>http://www.gesetze-im-internet.de/konsverluxv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Umsetzung von Konsultationsvereinbarungen zwischen der Bundesrepublik Deutschland und dem Königreich der Niederlande</title>
-<link>http://www.gesetze-im-internet.de/konsvernldv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zur Umsetzung der Konsultationsvereinbarung zwischen der Bundesrepublik Deutschland und der Russischen Föderation vom 3. März 2021</title>
 <link>http://www.gesetze-im-internet.de/konsverrusv/xml.zip</link>
 </item>
@@ -15321,10 +15317,6 @@
 <item>
 <title>Verordnung über markscheiderische Arbeiten und Beobachtungen der Oberfläche</title>
 <link>http://www.gesetze-im-internet.de/markschbergv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen bei einem Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes</title>
-<link>http://www.gesetze-im-internet.de/marktangv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Fachangestellten für Markt- und Sozialforschung/zur Fachangestellten für Markt- und Sozialforschung</title>
@@ -17655,6 +17647,10 @@
 <link>http://www.gesetze-im-internet.de/nootsnetzv/xml.zip</link>
 </item>
 <item>
+<title>Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag</title>
+<link>http://www.gesetze-im-internet.de/nootsstvtr/xml.zip</link>
+</item>
+<item>
 <title>Gesetz zum Vertrag über die Errichtung, den Betrieb und die Weiterentwicklung des Nationalen Once-Only-Technical-Systems (NOOTS) – Vertrag zur Ausführung von Artikel 91c Absatz 1, Absatz 2 GG – NOOTS-Staatsvertrag</title>
 <link>http://www.gesetze-im-internet.de/nootsstvtrg/xml.zip</link>
 </item>
@@ -18669,6 +18665,10 @@
 <item>
 <title>Verordnung über die Pflichtablieferung von Medienwerken an die Deutsche Nationalbibliothek</title>
 <link>http://www.gesetze-im-internet.de/pflav/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Beteiligung der maßgeblichen Organisationen der Pflegeberufe auf Bundesebene</title>
+<link>http://www.gesetze-im-internet.de/pflbbetv/xml.zip</link>
 </item>
 <item>
 <title>Pflanzenbeschauverordnung</title>
@@ -19979,10 +19979,6 @@
 <link>http://www.gesetze-im-internet.de/rindhklv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung zum Schutz gegen die Salmonellose der Rinder</title>
-<link>http://www.gesetze-im-internet.de/rindsalmv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung zum Schutz gegen die Tuberkulose des Rindes</title>
 <link>http://www.gesetze-im-internet.de/rindtbv/xml.zip</link>
 </item>
@@ -21255,7 +21251,7 @@
 <link>http://www.gesetze-im-internet.de/sekg_2017/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung und der Energieversorgung</title>
+<title>Verordnung über die Vergabe von öffentlichen Aufträgen im Bereich des Verkehrs, der Trinkwasserversorgung, der Postdienste und der Energieversorgung</title>
 <link>http://www.gesetze-im-internet.de/sektvo_2016/xml.zip</link>
 </item>
 <item>
@@ -23515,12 +23511,12 @@
 <link>http://www.gesetze-im-internet.de/tiergesg/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden*,**</title>
-<link>http://www.gesetze-im-internet.de/tierhaltkennzg/xml.zip</link>
+<title>Verordnung über In-vitro-Diagnostika nach dem Tiergesundheitsgesetz</title>
+<link>http://www.gesetze-im-internet.de/tierimpfstv_2006/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz</title>
-<link>http://www.gesetze-im-internet.de/tierimpfstv_2006/xml.zip</link>
+<title>Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden*,**</title>
+<link>http://www.gesetze-im-internet.de/tierhaltkennzg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten</title>
@@ -23583,16 +23579,16 @@
 <link>http://www.gesetze-im-internet.de/tierschversv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über anzeigepflichtige Tierseuchen</title>
-<link>http://www.gesetze-im-internet.de/tierseuchanzv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über das innergemeinschaftliche Verbringen und die Einfuhr von Tierseuchenerregern</title>
 <link>http://www.gesetze-im-internet.de/tierseuchereinfv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über das Arbeiten mit Tierseuchenerregern</title>
 <link>http://www.gesetze-im-internet.de/tierseucherv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung über die Meldung von Seuchen bei Tieren</title>
+<link>http://www.gesetze-im-internet.de/tierseuchmeldv/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Beförderung von Tieren, Teilen, Erzeugnissen und Rohstoffen von Tieren sowie von sonstigen Gegenständen, die Träger von Ansteckungsstoff sein können, durch den Nord-Ostsee-Kanal</title>
@@ -23649,10 +23645,6 @@
 <item>
 <title>Verordnung über die Berufsausbildung zum Technischen Konfektionär/zur Technischen Konfektionärin*)</title>
 <link>http://www.gesetze-im-internet.de/tkonfausbv_2010/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über meldepflichtige Tierkrankheiten</title>
-<link>http://www.gesetze-im-internet.de/tkrmeldpflv_1983/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Förderung der Transparenz auf dem Telekommunikationsmarkt</title>
@@ -26075,10 +26067,6 @@
 <link>http://www.gesetze-im-internet.de/wphg/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über den Einsatz von Mitarbeitern in der Anlageberatung, als Vertriebsmitarbeiter, in der Finanzportfolioverwaltung, als Vertriebsbeauftragte oder als Compliance- Beauftragte und über die Anzeigepflichten nach § 87 des Wertpapierhandelsgesetzes</title>
-<link>http://www.gesetze-im-internet.de/wphgmaanzv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Anzeigen und die Vorlage von Unterlagen nach dem Wertpapierinstitutsgesetz 1</title>
 <link>http://www.gesetze-im-internet.de/wpi-anzv/xml.zip</link>
 </item>
@@ -27031,7 +27019,7 @@
 <link>http://www.gesetze-im-internet.de/ersdig/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Führung der Personalakten durch das Bundesamt für den Zivildienst</title>
+<title>Verordnung über die Führung der Personalakten durch das Bundesamt für Familie und zivilgesellschaftliche Aufgaben</title>
 <link>http://www.gesetze-im-internet.de/zdpersav/xml.zip</link>
 </item>
 <item>
