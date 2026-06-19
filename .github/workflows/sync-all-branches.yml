@@ -2,7 +2,8 @@ name: Sync all upstream branches
 
 on:
   schedule:
-    - cron: "17 3 * * *"
+    # 12:17 Europe/Berlin, including daylight-saving-time changes.
+    - cron: "17 10,11 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,12 +17,25 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Berlin time
+        id: timing
+        shell: bash
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]] ||
+             [[ "$(TZ=Europe/Berlin date +%H)" == "12" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Check out fork
+        if: steps.timing.outputs.run == 'true'
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
       - name: Mirror QuantLaw branches
+        if: steps.timing.outputs.run == 'true'
         shell: bash
         run: |
           set -euo pipefail
